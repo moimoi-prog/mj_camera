@@ -1,0 +1,64 @@
+name: mj_camera
+description: mj camera
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: any
+  intl: ^0.16.1
+  flutter_native_image: ^0.0.5+2
+  path_provider: ^1.6.14
+  image_picker: ^0.6.7+12
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/s1.png
+    - assets/s2.png
+    - assets/s3.png
+    - assets/s4.png
+    - assets/s5.png
+    - assets/s6.png
+    - assets/s7.png
+    - assets/s8.png
+    - assets/s9.png
+    - assets/m1.png
+    - assets/m2.png
+    - assets/m3.png
+    - assets/m4.png
+    - assets/m5.png
+    - assets/m6.png
+    - assets/m7.png
+    - assets/m8.png
+    - assets/m9.png
+    - assets/p1.png
+    - assets/p2.png
+    - assets/p3.png
+    - assets/p4.png
+    - assets/p5.png
+    - assets/p6.png
+    - assets/p7.png
+    - assets/p8.png
+    - assets/p9.png
+    - assets/ton.png
+    - assets/nan.png
+    - assets/sya.png
+    - assets/pei.png
+    - assets/hak.png
+    - assets/hat.png
+    - assets/chu.png
+
+  uses-material-design: true
