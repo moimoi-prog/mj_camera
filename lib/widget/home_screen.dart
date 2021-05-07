@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:mj_camera/module/camera_module.dart';
-import 'package:mj_camera/module/image_send.dart';
+import 'package:mj_camera/module/mj_module.dart';
 
 import 'loading_dialog.dart';
 import 'mj_card_widget.dart';
